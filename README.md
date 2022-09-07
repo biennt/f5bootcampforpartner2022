@@ -1,20 +1,43 @@
-F5 Bootcamp for partner SE - 2022
+F5 Bootcamp for partner SE - Vietnam - 2022
 =================================
 
 ## Session 1 - F5 Vision and Solutions
 
-### F5's Journey & Future Identity (1h)
+### F5's Journey & Future Identity (30mins)
 <ol>
-<li>Key trends</li>
-<li>The future identity of F5</li>
+  <li>Key trends</li>
+  <li>The future identity of F5</li>
 </ol>
 
-### F5 Portfolio Overview (30min)
-
-### Solutions by Use Case (2h)
+### F5 Portfolio Overview (3h)
 <ol>
-<li>Performance and availability</li>
-<li>Application Visibility</li>
-<li>Security</li>
-<li>Automation</li>
+  <li>F5 BIG-IP Products</li>
+  <li>NGINX Products</li>
+  <li>F5 Distributed Cloud Introduction</li>
+</ol>
+
+## Session 2 - Technical hand-on and practicing
+
+### F5 Distributed Cloud Demos (1h)
+<ol>
+  <li>F5 Distributed Cloud WAAP</li>
+  <li>F5 Distributed Cloud Multicloud Networking</li>
+  <li>F5 Distributed Cloud App Delivery Network</li>
+</ol>
+
+### Getting started with F5 BIG-IP (1h)
+<ol>
+  <li>TMOS Architecture and Local Traffic Manager</li>
+  <li>F5 Advanced WAF</li>
+  <li>F5 DNS Solutions</li>
+  <li>Labs (02)</li>
+</ol>
+
+### Getting started with NGINX (1h)
+<ol>
+  <li>NGINX Plus and use-cases for Kubernetes environment</li>
+  <li>NGINX NAP WAF</li>
+  <li>NGINX NAP DOS</li>
+  <li>NGINX Management Suites</li>
+  <li>Labs (03)</li>
 </ol>
