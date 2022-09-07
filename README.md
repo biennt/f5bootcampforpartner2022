@@ -11,9 +11,10 @@ F5 Bootcamp for partner SE - Vietnam - 2022
 
 ### F5 Portfolio Overview (3h)
 <ol>
-  <li>F5 BIG-IP Products</li>
-  <li>NGINX Products</li>
-  <li>F5 Distributed Cloud Introduction</li>
+  <li>F5 BIG-IP Products (45min)</li>
+  <li>NGINX Products(45mins)</li>
+  <li>F5 Distributed Cloud Introduction(1h)</li>
+  <li>Putting all together (30min)</li>
 </ol>
 
 ## Session 2 - Technical hand-on and practicing
